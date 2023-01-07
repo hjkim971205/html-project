@@ -1,8 +1,8 @@
-# _{HTML Code Review}_
+# _HTML Code Review_
 
-#### By _**{Hyung Jin Kim}**_
+#### By _**Hyung Jin Kim**_
 
-#### _{https://github.com/hjkim971205/html-project}_
+#### https://github.com/hjkim971205/html-project
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This browser application give the reader an indepth information about the person: Hyung Jin Kim. Readers can navigate through the page through hyperlinks that takes the reader to another html page. It uses the following tags}_
+This browser application give the reader an indepth information about the person: Hyung Jin Kim. Readers can navigate through the page through hyperlinks that takes the reader to another html page. It uses the following tags
 
 * p
 * h
@@ -37,6 +37,6 @@ _{This browser application give the reader an indepth information about the pers
 
 ## License
 
-_{If there are any questions or bug reports please contact me via email at hyungjinkim1205@gmail.com}_
+If there are any questions or bug reports please contact me via email at hyungjinkim1205@gmail.com
 
-Copyright (c) 2023 Hyung Jin Kim(s)_
+Copyright (c) 2023 Hyung Jin Kim(s)
