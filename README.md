@@ -2,7 +2,7 @@
 
 #### By _**Hyung Jin Kim**_
 
-#### https://github.com/hjkim971205/html-project
+#### https://hjkim971205.github.io/html-project/
 
 ## Technologies Used
 
