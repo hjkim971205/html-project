@@ -29,7 +29,7 @@ This browser application give the reader an indepth information about the person
 
 * Clone this repository to desktop
 * Navigate to the top level of directory
-* open hjk/index.html in your browser
+* open index.html in your browser
 
 ## Known Bugs
 
